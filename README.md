@@ -1,1 +1,1 @@
-conexion con una api, conexion, carga de datos y peuqeña interfaz mostando los datso. Usando React con Tailwindcss
+conexion con una api pública, carga de datos y peuqeña interfaz mostrando los datos. Usando React con Tailwindcss
