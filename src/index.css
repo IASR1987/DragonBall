@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'Saiyan Sans';
+    src: url('./assets/fonts/fontSayan/Saiyan-Sans.ttf') format('truetype');
+  }
+
+  body {
+    font-family: sans-serif;
+  }
